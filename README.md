@@ -31,6 +31,7 @@
                     <img src="library_icon.png" alt="">
                     <a href="#">Your Library</a>
                 </div>
+                
                 <div class="icons">
                     <i class="fa-solid fa-plus"></i>
                     <i class="fa-solid fa-arrow-right"></i>
@@ -62,6 +63,7 @@
                     <i class="fa-solid fa-user space" style="font-size: 22px;"></i>
                 </div>
             </div>
+            
                 <h2>Recently Played</h2>
                 <div class="cards-container">
                     <div class="card">
@@ -108,6 +110,7 @@
                         <p class="card-info">Your daily updates of the most played tracks...</p>
                     </div>
                 </div>
+
                 <h2>Featured Charts</h2>
                 <div class="cards-container">
                     <div class="card">
@@ -149,6 +152,7 @@
                 <div class="footer">
                     <div class="line"></div>
                 </div>
+            
         </div>
         <div class="music-player">
             <div class="album">
@@ -162,6 +166,7 @@
                 <span class="material-symbols-outlined">
                     laps
                     </span>
+
             </div>
             </div>
             <div class="player">
